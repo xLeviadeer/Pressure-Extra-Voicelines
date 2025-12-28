@@ -1,5 +1,5 @@
 # Pressure Extra Voicelines
-Adds extra voiceslines to [Roblox Pressure](https://www.roblox.com/games/12411473842/Pressure) when certain events occur.
+Adds extra voicelines to [Roblox Pressure](https://www.roblox.com/games/12411473842/Pressure) when certain events occur.
 
 How to Use and How it Works
 ---
