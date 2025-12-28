@@ -4,7 +4,7 @@ Adds extra voiceslines to pressure when certain events occur.
 How to Use and How it Works
 ---
 ### How to Use
-1. **Download** the program from the "Releases" page and run the .msi file to install the program
+1. **Download** the program from the "Releases" page and run the .exe file to install the program
 2. **Open** the program
 3. **Enable** any **modes** you'd like 
 4. **Open Pressure** and start playing
