@@ -1,0 +1,47 @@
+--------------- USER AGREEMENT ---------------
+IMPORTANT: by using this software you agree to ALL terms described in this document. If you do not agree to any of the terms and cannot abide by what is stated in this document, do not use this software. 
+
+1. Acceptance of Responsibility
+    You acknowledge and agree that any consequences are your responsibility. 
+    
+    This includes actions taken by but not limited to, Roblox, other platforms, your government, Pressure, or any third party.
+
+    You understand and agree that the authors of this software take no reponsibility for any loss; damage; account bans, kicks, or other moderative actions; legal action; or other consequences resulting from your use.
+
+2. Prohibited Use
+    You may NOT modify, reverse engineer, decompile or create derivative works using the methods or logic for how this software functions to cheat, exploit, otherwise gain an unfair advantage, break any Roblox agreements such as, the Roblox Terms of Use or Privacy Policy, break any Pressure rules, break the rules of any other platform, or otherwise break other parts of this agreement.
+
+    Any attempts to bypass, alter or misuse this software is strictly forbidden.
+
+3. Distribution and Sale
+    This software is FREE FOR PERSONAL USE ONLY. 
+
+    You may NOT sell, rent, lease, redistribute or otherwise accept profit in exchange for the use of this program.
+
+    You may NOT claim this software as your own, or otherwise attempt to change the original author's attribution to this program.
+
+4. License Grant
+    You are granted a NON-EXCLUSIVE, NON-TRANSFERABLE LICENSE to use this software for personal enjoyment only, subject to the restrictions outlined in this document.
+
+5. No Warranty
+    This software is provided "AS-IS", without any warranties of any sort.
+
+    The author of this software does NOT guarantee functionality, safety, or fitness for any particular purpose. 
+
+    Use of this software is at your own risk.
+
+6. Termination
+    Violation of any term in this agreement automatically terminates your license.
+
+    Upon termination, you must cease using this software and delete all copies from your device. 
+
+    You may not use any kind of logically loophole to attempt to continue using the program despite license termination.
+
+7. Required Practices
+    Respect all applicable laws and platform rules.
+
+    Use this software responsibly and ethically.
+
+    The author reserves the right to update, modify or revoke this license at any time; continued use of the software constitutes acceptance of updated terms. 
+
+    Notice for terms updates is not guaranteed by the author; you are expected to keep up with license updates and terminate your license if you are no longer able to agree to terms
